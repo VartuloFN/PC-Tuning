@@ -1,6 +1,6 @@
 # PC-Tuning
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/amitxv)
+[![THIS GUIDE HAS BEEN DEPRECIATED AND HAS BEEN FORKED FOR ARCHIVAL PURPOSES]
 
 ## Table of Contents
 
