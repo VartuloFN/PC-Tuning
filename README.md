@@ -22,12 +22,6 @@ In this guide, you will learn how to configure your hardware, the operating syst
 
 As pre-modified Windows ISOs and setup scripts have gained popularity over the years, the convenience of using them may be appealing to cut down on setup time. However, fine-tuning your own installation of Windows to suit your needs will outperform such projects that cater for a general audience. Furthermore, some of these projects are not open source so apart from them being potentially malicious, the performance and user experience related changes are unknown thus you will not be able to benchmark how certain changes influence performance scaling on your system as explained in the [Benchmarking](#benchmarking) section. They also lack information related to configuring the hardware, BIOS, overclocking, component stability and much more which is profoundly impactful but seems to be completely disregarded by the user base. On the contrary, the guidance involves instructions to customize an official Windows ISO using DISM then reinstall Windows which is necessary to eliminate apparent inconsistencies between systems assumed in the guidance.
 
-## Staying Informed
-
-The contents and information included in this repository will inevitably change over time. To stay up to date, it is recommended to review what has changed once in a while. At the time of reviewing, take a note of the 7 digit SHA code in the [latest commit](https://github.com/amitxv/PC-Tuning/commit/main) (e.g. ``2428150``) then use the URL below as an example to compare what has changed since the noted commit.
-
-<https://github.com/amitxv/PC-Tuning/compare/2428150..main>
-
 ## Benchmarking
 
 Before diving into the main content, it is important to learn and understand how to benchmark properly and what the appropriate tools for a given task are as you will need to carry out your own experiments throughout the guide to assist in decision-making (e.g. settings to use, verify performance scaling) rather than blindly applying settings.
